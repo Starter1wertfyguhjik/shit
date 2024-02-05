@@ -1,0 +1,67 @@
+D:\bank\Kill Stars\Kill Stars\bin\Debug\Kill Stars.exe.config
+D:\bank\Kill Stars\Kill Stars\bin\Debug\Kill Stars.exe
+D:\bank\Kill Stars\Kill Stars\bin\Debug\Kill Stars.pdb
+D:\bank\Kill Stars\Kill Stars\obj\Debug\Kill Stars.csproj.AssemblyReference.cache
+D:\bank\Kill Stars\Kill Stars\obj\Debug\Kill_Stars.nameKillStars.resources
+D:\bank\Kill Stars\Kill Stars\obj\Debug\Kill_Stars.Properties.Resources.resources
+D:\bank\Kill Stars\Kill Stars\obj\Debug\Kill Stars.csproj.GenerateResource.cache
+D:\bank\Kill Stars\Kill Stars\obj\Debug\Kill Stars.csproj.CoreCompileInputs.cache
+D:\bank\Kill Stars\Kill Stars\obj\Debug\Kill Stars.exe
+D:\bank\Kill Stars\Kill Stars\obj\Debug\Kill Stars.pdb
+D:\bank\Kill Stars\Kill Stars\obj\Debug\Kill Stars.csproj.SuggestedBindingRedirects.cache
+D:\bank\Kill Stars\Kill Stars\obj\Debug\Kill Stars.exe.config
+D:\bank\Kill Stars\Kill Stars\bin\Debug\BouncyCastle.Cryptography.dll
+D:\bank\Kill Stars\Kill Stars\bin\Debug\Google.Protobuf.dll
+D:\bank\Kill Stars\Kill Stars\bin\Debug\K4os.Compression.LZ4.dll
+D:\bank\Kill Stars\Kill Stars\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\bank\Kill Stars\Kill Stars\bin\Debug\K4os.Hash.xxHash.dll
+D:\bank\Kill Stars\Kill Stars\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\bank\Kill Stars\Kill Stars\bin\Debug\Microsoft.Data.Tools.Components.dll
+D:\bank\Kill Stars\Kill Stars\bin\Debug\Microsoft.Data.Tools.Schema.Sql.dll
+D:\bank\Kill Stars\Kill Stars\bin\Debug\Microsoft.Data.Tools.Schema.Sql.UnitTesting.dll
+D:\bank\Kill Stars\Kill Stars\bin\Debug\Microsoft.Data.Tools.Schema.Sql.UnitTestingAdapter.dll
+D:\bank\Kill Stars\Kill Stars\bin\Debug\MySql.Data.dll
+D:\bank\Kill Stars\Kill Stars\bin\Debug\NuGet.Frameworks.dll
+D:\bank\Kill Stars\Kill Stars\bin\Debug\System.Buffers.dll
+D:\bank\Kill Stars\Kill Stars\bin\Debug\System.Configuration.ConfigurationManager.dll
+D:\bank\Kill Stars\Kill Stars\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\bank\Kill Stars\Kill Stars\bin\Debug\System.IO.Pipelines.dll
+D:\bank\Kill Stars\Kill Stars\bin\Debug\System.Memory.dll
+D:\bank\Kill Stars\Kill Stars\bin\Debug\System.Numerics.Vectors.dll
+D:\bank\Kill Stars\Kill Stars\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\bank\Kill Stars\Kill Stars\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\bank\Kill Stars\Kill Stars\bin\Debug\ZstdSharp.dll
+D:\bank\Kill Stars\Kill Stars\bin\Debug\Microsoft.Data.Tools.Utilities.dll
+D:\bank\Kill Stars\Kill Stars\bin\Debug\Microsoft.SqlServer.TransactSql.ScriptDom.dll
+D:\bank\Kill Stars\Kill Stars\bin\Debug\Microsoft.Data.SqlClient.dll
+D:\bank\Kill Stars\Kill Stars\bin\Debug\Microsoft.Identity.Client.dll
+D:\bank\Kill Stars\Kill Stars\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\bank\Kill Stars\Kill Stars\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\bank\Kill Stars\Kill Stars\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\bank\Kill Stars\Kill Stars\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+D:\bank\Kill Stars\Kill Stars\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+D:\bank\Kill Stars\Kill Stars\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+D:\bank\Kill Stars\Kill Stars\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\bank\Kill Stars\Kill Stars\bin\Debug\Microsoft.IdentityModel.Logging.dll
+D:\bank\Kill Stars\Kill Stars\bin\Debug\BouncyCastle.Cryptography.xml
+D:\bank\Kill Stars\Kill Stars\bin\Debug\Google.Protobuf.pdb
+D:\bank\Kill Stars\Kill Stars\bin\Debug\Google.Protobuf.xml
+D:\bank\Kill Stars\Kill Stars\bin\Debug\K4os.Compression.LZ4.xml
+D:\bank\Kill Stars\Kill Stars\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\bank\Kill Stars\Kill Stars\bin\Debug\K4os.Hash.xxHash.xml
+D:\bank\Kill Stars\Kill Stars\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\bank\Kill Stars\Kill Stars\bin\Debug\MySql.Data.xml
+D:\bank\Kill Stars\Kill Stars\bin\Debug\System.Buffers.xml
+D:\bank\Kill Stars\Kill Stars\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\bank\Kill Stars\Kill Stars\bin\Debug\System.IO.Pipelines.xml
+D:\bank\Kill Stars\Kill Stars\bin\Debug\System.Memory.xml
+D:\bank\Kill Stars\Kill Stars\bin\Debug\System.Numerics.Vectors.xml
+D:\bank\Kill Stars\Kill Stars\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\bank\Kill Stars\Kill Stars\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\bank\Kill Stars\Kill Stars\bin\Debug\ru\Microsoft.Data.Tools.Schema.Sql.resources.dll
+D:\bank\Kill Stars\Kill Stars\bin\Debug\ru\Microsoft.Data.Tools.Schema.Sql.UnitTesting.resources.dll
+D:\bank\Kill Stars\Kill Stars\bin\Debug\ru\Microsoft.Data.Tools.Utilities.resources.dll
+D:\bank\Kill Stars\Kill Stars\bin\Debug\ru\Microsoft.SqlServer.TransactSql.ScriptDom.resources.dll
+D:\bank\Kill Stars\Kill Stars\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
+D:\bank\Kill Stars\Kill Stars\bin\Debug\ru\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+D:\bank\Kill Stars\Kill Stars\obj\Debug\Kill Stars.csproj.CopyComplete
